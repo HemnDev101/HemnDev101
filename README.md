@@ -1,7 +1,6 @@
 <h1 align="center">السلام علیکم ،من هێمن أحمد</h1>
 <h3 align="center">Pentester && Developer</h3>
- <p><a href="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC">via GIPHY</a></p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hemndev101&label=Profile%20views&color=0e75b6&style=flat" alt="hemndev101" /> </p>
+ <p align="left"> <img src="https://komarev.com/ghpvc/?username=hemndev101&label=Profile%20views&color=0e75b6&style=flat" alt="hemndev101" /> </p>
 
  
 <h3 align="left">Connect with me:</h3>
