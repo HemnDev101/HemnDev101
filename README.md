@@ -1,6 +1,6 @@
 <h1 align="center">السلام علیکم ،من هێمن أحمد</h1>
 <h3 align="center">Pentester && Developer</h3>
-<div style="padding-top:100.000%;position:relative;"><iframe src="https://gifer.com/embed/Bm7L" width="100%" height="100%" style='position:absolute;top:0;left:0;' frameBorder="0" allowFullScreen></iframe></div><p><a href="https://gifer.com">via GIFER</a></p>
+ <iframe src="https://gifer.com/embed/Bm7L" width=480 height=480.000 frameBorder="0" allowFullScreen></iframe><p><a href="https://gifer.com">via GIFER</a></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hemndev101&label=Profile%20views&color=0e75b6&style=flat" alt="hemndev101" /> </p>
 
