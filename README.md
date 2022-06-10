@@ -3,8 +3,7 @@
  <p><a href="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC">via GIPHY</a></p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hemndev101&label=Profile%20views&color=0e75b6&style=flat" alt="hemndev101" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hemndev101" alt="hemndev101" /></a> </p>
-
+ 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/https://www.facebook.com/hemndev101/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/hemndev101/" height="30" width="40" /></a>
